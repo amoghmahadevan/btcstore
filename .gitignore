@@ -1,0 +1,5 @@
+**/*_templ.go
+.envrc
+.envrc.sample
+node_modules
+assets/dist
