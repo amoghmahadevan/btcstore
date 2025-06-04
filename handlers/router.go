@@ -7,7 +7,7 @@ import (
 	"github.com/go-chi/chi/v5/middleware"
 )
 
-// test push
+// test push from personal account
 func Router() http.Handler {
 	r := chi.NewRouter()
 	r.Use(middleware.RealIP)
